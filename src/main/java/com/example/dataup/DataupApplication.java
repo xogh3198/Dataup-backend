@@ -9,5 +9,4 @@ public class DataupApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DataupApplication.class, args);
 	}
-
 }
